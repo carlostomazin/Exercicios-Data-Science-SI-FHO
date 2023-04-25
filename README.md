@@ -5,4 +5,4 @@ Centralizacao dos exercicios de Data Science realizados na material de Topicos e
 Explorando e manipulando datasets
 
 ### Aula 09
-Explorando algoratimos para aprendizado de maquina
+Explorando algoritmos para aprendizado de maquina
